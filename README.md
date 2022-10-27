@@ -18,7 +18,7 @@ III. NOTE:
 
   1. The Goal of this Repo is to have a public online copy of cool websites that can assist people with whatever their interests/necessities are.
   
-  2. Please, if you know of other cool websites, Fork/Document/Push, let's build this Repo together!
+  2. Please, if you know of other cool websites - Fork/Document/Push, let's build this Repo together!
 
 IV. FURTHER INFO:
 
