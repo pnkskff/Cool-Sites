@@ -10,7 +10,11 @@ II. COOL SITES:
   
      URL: https://interiorai.com/
 
-  2. Shadow Cloud PC - A Remote Windows PC. 
+  2. Nice Page - No Code Website Templates.
+  
+     URL: https://nicepage.com/ 
+  
+  3. Shadow Cloud PC - A Remote Windows PC. 
      
      URL: https://shadow.tech/fr-ca/
 
