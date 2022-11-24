@@ -26,7 +26,7 @@ III. NOTE:
 
 IV. FURTHER INFO:
 
-  1. Readme last updated on: OCTOBER 2022
+  1. Readme last updated on: NOVEMBER 2022
 
   2. Authors:
 
